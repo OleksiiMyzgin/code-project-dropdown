@@ -1,0 +1,39 @@
+++++++++++ Coding Challenge ++++++++++
+
+
+Thanks for taking this coding challenge. 
+We appreciate you taking the time to showcase your skills.
+
+Please create a react application to handle this Searchable, Selectable, Dropdown element. Please send a GITHUB link or a zip of your project files when completed.
+
+
+__________ Assets __________
+https://share.goabstract.com/372d03a1-f1bd-4db0-b447-308d10f45352?collectionLayerId=18f697ed-7db3-42f6-84f4-8ac42ae2ef13&mode=build
+
+
+__________ Expected Architecture __________
+	- Please use React/Redux	
+	- Create a JSON data file that represents the websites listed in the dropdown
+	- Fetch this data and store it in app state
+
+
+__________ Expected UI __________
+	- End result should match the given design
+	- User should be able to scroll vertically the list of dropdown items (if you need to make the box shorter to showcase this, please do)
+
+	
+__________ Expected Functionality __________
+	- User should be able to filter via search within the dropdown items
+	- User should be able to select all checkboxes
+	- User should be able to deselect all checkboxes
+	- “All Sites” label should change to read how many sites have been selected (ex: 3 sites selected)
+	- When filter button is clicked, we should update a property in redux with those selected filters
+
+
+__________ Tips __________
+	- Use create-react-app from NPM for easy app startup boilerplate (https://www.npmjs.com/package/create-react-app)
+	- Please use fontawesome for the iconography (https://fontawesome.com/icons?d=gallery&m=free)
+	- Architecture, Code Quality, and UX counts!
+
+
+
